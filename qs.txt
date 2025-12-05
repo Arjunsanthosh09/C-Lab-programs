@@ -1,0 +1,7 @@
+Welcome to File Handling in C!
+
+This is a simple text file.
+The program will read all this content
+and display it on the screen.
+
+Have a great day!
